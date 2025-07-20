@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python,full-stack development**
 
-- 👯 I’m looking to collaborate on **Artifical intelligence projects**
+- 👯 I’m looking to collaborate on **Artificial intelligence projects**
 
 - 🤝 I’m looking for help with **advanced generative ai**
 

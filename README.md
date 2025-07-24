@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saileela145&label=Profile%20views&color=0e75b6&style=flat" alt="saileela145" /> </p>
 
-- 🌱 I’m currently learning **Python,full-stack development**
+- 🌱 I’m currently learning **Sysadmin,AI**
 
-- 👯 I’m looking to collaborate on **Artificial intelligence projects**
+- 👯 I’m looking to collaborate on **Sysadmin role,Artificial intelligence projects**
 
 - 🤝 I’m looking for help with **advanced generative ai**
 

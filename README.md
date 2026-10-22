@@ -1,109 +1,126 @@
-# Hi, I'm Saileela 👋
+<div align="center">
 
-### Computer Science Engineering Student | Python Developer | AI Enthusiast
+# 👋 Hi, I'm Saileela Dharmavarapu
 
-I'm a Computer Science Engineering student with a CGPA of **8.7/10**, interested in Python development, backend engineering, and AI-powered applications.
+### 💻 Computer Science Engineering Student | Python Developer | AI Enthusiast
 
-I enjoy building practical projects that solve real-world problems using Python, APIs, databases, and AI technologies.
+*Building practical software solutions with Python, backend technologies, and AI.*
 
-* 🎓 B.Tech in Computer Science Engineering
-* 🐍 Interested in Python and backend development
-* 🤖 Exploring Generative AI and Agentic AI
-* 🔭 Working on practical software and AI projects
-* 🌱 Currently strengthening my skills in Python, SQL, DSA, and AI
-* 📍 India
+[![GitHub](https://img.shields.io/badge/GitHub-Saileela145-181717?style=for-the-badge\&logo=github)](https://github.com/Saileela145)
+[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 About Me
 
-**Programming Language**
+I'm a final-year Computer Science Engineering student with a **CGPA of 8.7/10**, interested in Python development, backend engineering, and AI-powered applications.
 
-* Python
+I enjoy building applications that combine APIs, databases, and AI technologies to solve practical problems. I'm continuously improving my programming skills and exploring ways to develop useful, reliable software.
 
-**Backend Development**
+* 🎓 Pursuing B.Tech in Computer Science Engineering.
+* 🐍 Interested in Python development and backend engineering.
+* 🤖 Exploring AI applications, LLMs, and AI agents.
+* 🔧 Building projects using FastAPI, Streamlit, and databases.
+* 🎯 Preparing for software engineering opportunities.
 
-* FastAPI
-* REST APIs
+## 🚀 Currently Exploring
 
-**Frontend and Application Development**
+* Developing backend applications using **FastAPI and REST APIs**.
+* Building AI-powered applications with **LangChain and Google Gemini**.
+* Exploring AI agents and automated research workflows.
+* Strengthening SQL, DBMS, OOP, and Data Structures and Algorithms.
+* Improving problem-solving and technical interview skills.
 
-* Streamlit
+## 💼 Featured Projects
 
-**Databases**
+### 🏗️ House Construction Expenditure Tracker
 
-* SQL
-* PostgreSQL
+**Python · Streamlit · FastAPI · SQL**
 
-**AI and Emerging Technologies**
+A web application designed to manage and track house construction expenses.
 
-* Artificial Intelligence Fundamentals
-* Prompt Engineering
-* Agentic AI Fundamentals
-* AI Research Applications
+* Tracks construction materials, labour costs, and other expenses.
+* Organizes purchase history and expense summaries.
+* Uses API integration to connect the application with backend services.
 
-**Tools**
+🔗 **[Explore Repository](https://github.com/Saileela145/house_construction_expense_tracker)**
 
-* Git
-* GitHub
-* VS Code
+### 🤖 AI Research Assistant
 
-**Computer Science Fundamentals**
+**Python · LangChain · Google Gemini · Streamlit**
 
-* Object-Oriented Programming
-* Data Structures and Algorithms
+An AI-powered research application that helps users investigate questions and gather useful information.
 
----
+* Searches and analyzes web content to support research.
+* Supports calculations and information analysis.
+* Presents relevant sources to help users explore results further.
 
-## 🚀 Featured Projects
+🔗 **[Explore Repository](https://github.com/Saileela145/AI-Research-Assistant)**
 
-### 1. House Construction Expenditure Tracker
+## 🛠️ Tech Stack
 
-**Technologies:** Python | Streamlit | FastAPI | SQL
+### Programming Languages
 
-* Developed a web application to track house construction expenses, including material purchases, labour costs, and overall expenditure.
-* Implemented backend APIs to manage expense records.
-* Built features for viewing purchase history and expense summaries.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-🔗 [View Project](https://github.com/Saileela145)
+### Backend & Application Development
 
-### 2. AI Research Assistant
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-**Technologies:** Python | LangChain | Google Gemini | Streamlit
+### AI & Data
 
-* Developed an AI research assistant to answer user queries using web research and webpage analysis.
-* Integrated calculation capabilities to support different types of queries.
-* Implemented source collection and selection to provide relevant, clickable references.
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-🔗 [Explore My GitHub Repositories](https://github.com/Saileela145?tab=repositories)
+### Database & Development Tools
 
----
-
-## 📜 Certifications
-
-* Python for Beginners | Simplilearn SkillUp
-* Mastering ChatGPT: Your Guide to Conversational AI | Holograd
-
----
-
-## 💼 Industry Exposure
-
-* **Rakuten Technology Conference 2025:** Interacted with an experienced technology professional and explored emerging technology trends.
-* **NatWest Corporate Office Visit:** Gained exposure to a professional corporate environment and workplace culture.
-
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saileela145\&show_icons=true\&theme=default)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saileela145\&layout=compact\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saileela145\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saileela145\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Saileela145\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+## 🎓 Certifications
+
+* **Python for Beginners** | Simplilearn SkillUp
+* **Mastering ChatGPT: Your Guide to Conversational AI** | Holograd
+
+## 🏢 Industry Exposure
+
+* Rakuten Technology Conference 2025
+* NatWest Corporate Office Visit
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Saileela145-181717?style=for-the-badge\&logo=github)](https://github.com/Saileela145)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mailtosaileela145@gmail.com)
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-* 💻 GitHub: [Saileela145](https://github.com/Saileela145)
-* 📧 Email: [mailtosaileela145@gmail.com](mailto:mailtosaileela145@gmail.com)
+*Learning, building, and improving one project at a time.* 🌱
 
-I'm interested in learning, collaborating on software development projects, and exploring practical applications of AI.
+</div>

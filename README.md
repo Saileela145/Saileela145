@@ -1,37 +1,109 @@
-<h1 align="left">Hi 👋, I am Saileela</h1>
-<h2 align="left">A passionate software engineer from India</h2>
-<img align="right" alt="coding" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+# Hi, I'm Saileela 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saileela145&label=Profile%20views&color=0e75b6&style=flat" alt="saileela145" /> </p>
+### Computer Science Engineering Student | Python Developer | AI Enthusiast
 
-- 🌱 I’m currently learning **Sysadmin,AI**
+I'm a Computer Science Engineering student with a CGPA of **8.7/10**, interested in Python development, backend engineering, and AI-powered applications.
 
-- 👯 I’m looking to collaborate on **Sysadmin role,Artificial intelligence projects**
+I enjoy building practical projects that solve real-world problems using Python, APIs, databases, and AI technologies.
 
-- 🤝 I’m looking for help with **advanced generative ai**
+* 🎓 B.Tech in Computer Science Engineering
+* 🐍 Interested in Python and backend development
+* 🤖 Exploring Generative AI and Agentic AI
+* 🔭 Working on practical software and AI projects
+* 🌱 Currently strengthening my skills in Python, SQL, DSA, and AI
+* 📍 India
 
-- 💬 Ask me about **python,ai**
+---
 
-- 📫 How to reach me **mailtosaileela145@gmail.com**
+## 🛠️ Technical Skills
 
-- ⚡ Fun fact **I am funny😅**
+**Programming Language**
 
-<h3 align="left">Connect with me:linked in</h3>
-<p align="left">
-</p>
-<h3 align="left">📍📁 My Certifications and Courses</h3>
+* Python
 
-- 📜 [Generative AI for Beginners - Simplilearn](https://simpli-web.app.link/e/ZDgZNX9jVTb)
-- 📜 [Introduction to Generative AI Studio - Simplilearn](https://simpli-web.app.link/e/VWtZmibkVTb)
-- 📜 [Python for Beginners-Simplilearn](https://simpli-web.app.link/e/qwP5iSzueVb).
-- 📜 [Mastering ChatGPT : Your Guide to Conversational AI-HoloGrad](https://holograd.in/tutor-certificate?cert_hash=d3de88f375cae1a9).
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Backend Development**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saileela145&show_icons=true&locale=en&layout=compact" alt="saileela145" /></p>
+* FastAPI
+* REST APIs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saileela145&show_icons=true&locale=en" alt="saileela145" /></p>
+**Frontend and Application Development**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saileela145&" alt="saileela145" /></p>
+* Streamlit
 
+**Databases**
 
+* SQL
+* PostgreSQL
+
+**AI and Emerging Technologies**
+
+* Artificial Intelligence Fundamentals
+* Prompt Engineering
+* Agentic AI Fundamentals
+* AI Research Applications
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+**Computer Science Fundamentals**
+
+* Object-Oriented Programming
+* Data Structures and Algorithms
+
+---
+
+## 🚀 Featured Projects
+
+### 1. House Construction Expenditure Tracker
+
+**Technologies:** Python | Streamlit | FastAPI | SQL
+
+* Developed a web application to track house construction expenses, including material purchases, labour costs, and overall expenditure.
+* Implemented backend APIs to manage expense records.
+* Built features for viewing purchase history and expense summaries.
+
+🔗 [View Project](https://github.com/Saileela145)
+
+### 2. AI Research Assistant
+
+**Technologies:** Python | LangChain | Google Gemini | Streamlit
+
+* Developed an AI research assistant to answer user queries using web research and webpage analysis.
+* Integrated calculation capabilities to support different types of queries.
+* Implemented source collection and selection to provide relevant, clickable references.
+
+🔗 [Explore My GitHub Repositories](https://github.com/Saileela145?tab=repositories)
+
+---
+
+## 📜 Certifications
+
+* Python for Beginners | Simplilearn SkillUp
+* Mastering ChatGPT: Your Guide to Conversational AI | Holograd
+
+---
+
+## 💼 Industry Exposure
+
+* **Rakuten Technology Conference 2025:** Interacted with an experienced technology professional and explored emerging technology trends.
+* **NatWest Corporate Office Visit:** Gained exposure to a professional corporate environment and workplace culture.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saileela145\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saileela145\&layout=compact\&theme=default)
+
+---
+
+## 🤝 Connect With Me
+
+* 💻 GitHub: [Saileela145](https://github.com/Saileela145)
+* 📧 Email: [mailtosaileela145@gmail.com](mailto:mailtosaileela145@gmail.com)
+
+I'm interested in learning, collaborating on software development projects, and exploring practical applications of AI.
